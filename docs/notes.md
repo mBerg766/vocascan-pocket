@@ -23,3 +23,4 @@ Notes and usage details for vocascan-pocket.
 - add a note about the defaults
 - link the usage section
 - clarify the setup steps
+- link the usage section

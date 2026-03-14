@@ -44,3 +44,4 @@ Notes and usage details for vocascan-pocket.
 - clarify the setup steps
 - clarify the setup steps
 - fix a small wording issue
+- add a note about the defaults

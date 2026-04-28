@@ -51,3 +51,4 @@ Notes and usage details for vocascan-pocket.
 - clarify the setup steps
 - link the usage section
 - clarify the setup steps
+- link the usage section

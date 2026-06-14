@@ -59,3 +59,4 @@ Notes and usage details for vocascan-pocket.
 - clarify the setup steps
 - add a note about the defaults
 - link the usage section
+- add a note about the defaults
